@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final year student at St. Joseph's College of Engineering (IT | AI | Language Models)<br>🌱 I’m currently learning about LLM's, Generative AI<br>💬 Ask me about ML, Data Science and Statistical Analytics, DSA<br>📄 Know about my experiences https://www.linkedin.com/in/deepaksakthi-v-k/<br>💻 My website https://deepaksakthi-v-k.web.app/<br>📫 How to reach me deepak2004sakthi@gmail.com<br>⚡ Fun fact I am a left-hander<br><br>
+Pre-final year student at St. Joseph's College of Engineering (IT | AI | Language Models)<br>🌱 I’m currently learning about LLM's, Generative AI<br>💬 Ask me about ML, Data Science and Statistical Analytics, DSA<br>📄 Know about my experiences https://www.linkedin.com/in/deepaksakthi-v-k/<br>💻 My website https://portfolio-finale.web.app/<br>📫 How to reach me deepak2004sakthi@gmail.com<br>⚡ Fun fact I am a left-hander<br><br>
 
 [![Demo Chatbot](https://img.youtube.com/vi/ZhJin7r5hF8/0.jpg)](https://www.youtube.com/watch?v=ZhJin7r5hF8)
 
